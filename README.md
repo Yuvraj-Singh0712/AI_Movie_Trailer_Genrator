@@ -22,15 +22,12 @@ Generate scripts, scenes, voiceovers, background music, and fully edited cinemat
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 
 </p>
-## 🎥 Demo
+## 🎥 Live Demo
 
 
 https://github.com/user-attachments/assets/a5001994-f7b0-46aa-ba77-3d9a2102ba0a
 
 
-## 🎥 Live Demo
-
-https://github.com/user-attachments/assets/your-video-id
 ## 📌 About the Project
 ✨ Generates scripts
 
