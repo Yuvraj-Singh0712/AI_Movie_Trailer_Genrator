@@ -28,6 +28,24 @@ Generate scripts, scenes, voiceovers, background music, and fully edited cinemat
 https://github.com/user-attachments/assets/a5001994-f7b0-46aa-ba77-3d9a2102ba0a
 
 
+# 🚀 Live Notebook
+
+<p align="center">
+
+### 💻 Run Instantly in Google Colab
+
+<a href="https://colab.research.google.com/drive/1PiRg9YcN4vmqEHf6ztNkn8MhovBOyStD?usp=sharing">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" height="45">
+</a>
+
+</p>
+
+No installation required.
+
+Simply open the notebook in **Google Colab**, add your API key (if required), and make your Futuristic Movie Trailer .
+
+---
+
 ## 📌 About the Project
 ✨ Generates scripts
 
