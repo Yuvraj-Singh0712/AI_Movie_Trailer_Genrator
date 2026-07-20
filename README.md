@@ -77,6 +77,7 @@ F --> G
 ```
 📂 AI-Movie-Trailer
 
+
  ├── main.py
  ├── script_generator.py
  ├── video_generator.py
@@ -86,6 +87,8 @@ F --> G
  ├── outputs/
  ├── requirements.txt
  └── README.md
+
+ 
  ---
  ---
  
