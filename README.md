@@ -80,17 +80,17 @@ F --> G
 ## 📂 Project Structure
 
 ```text
-📦 AI-Movie-Trailer
+                 📦 AI-Movie-Trailer
 │
-├── 📄 main.py
-├── 📄 script_generator.py
-├── 📄 video_generator.py
-├── 📄 audio_generator.py
-├── 📄 video_editor.py
-├── 📁 assets/
-├── 📁 outputs/
-├── 📄 requirements.txt
-└── 📄 README.md
+              ├── 📄 main.py
+                          ├── 📄 script_generator.py
+                         ├── 📄 video_generator.py
+                         ├── 📄 audio_generator.py
+                      ├── 📄 video_editor.py
+              ├── 📁 assets/
+               ├── 📁 outputs/
+                       ├── 📄 requirements.txt
+                └── 📄 README.md
 ```
 
  
