@@ -76,7 +76,7 @@ E --> F
 F --> G
 ```
 
- ## 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 📦 AI-Movie-Trailer
@@ -91,6 +91,7 @@ F --> G
 ├── 📄 requirements.txt
 └── 📄 README.md
 ```
+
  
  ## 🛠 Tech Stack
 
