@@ -75,22 +75,22 @@ D --> E
 E --> F
 F --> G
 ```
-📂 AI-Movie-Trailer
 
+ ## 📂 Project Structure
 
- ├── main.py
- ├── script_generator.py
- ├── video_generator.py
- ├── audio_generator.py
- ├── video_editor.py
- ├── assets/
- ├── outputs/
- ├── requirements.txt
- └── README.md
-
- 
- ---
- ---
+```text
+📦 AI-Movie-Trailer
+│
+├── 📄 main.py
+├── 📄 script_generator.py
+├── 📄 video_generator.py
+├── 📄 audio_generator.py
+├── 📄 video_editor.py
+├── 📁 assets/
+├── 📁 outputs/
+├── 📄 requirements.txt
+└── 📄 README.md
+```
  
  ## 🛠 Tech Stack
 
