@@ -4,13 +4,6 @@
 
 ### 🚀 Transform Any Movie Idea into a Cinematic AI Trailer
 
-</div>
-<p align="center">
-
-<img src="assets/banner.png" width="100%">
-
-<p align="center">
-  <br>
 Generate scripts, scenes, voiceovers, background music, and fully edited cinematic trailers using Artificial Intelligence.
 </p>
 <p align="center">
